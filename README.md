@@ -2,7 +2,7 @@
 
 FutureMe is a premium, AI-powered personal reflection web application. Users input details about their current life status, core ambitions, struggles, and one-year vision. Using the Gemini API, the app generates a powerful, customized, emotionally intelligent message from their future self (one year from now). It also produces tactical next steps, a daily habit, mistakes to avoid, and a daily mantra. After viewing the dashboard, users can chat continuously with their future self in a premium, real-time messaging interface.
 
-Developed for **Nitish's Founder Labs**.
+
 
 ---
 
