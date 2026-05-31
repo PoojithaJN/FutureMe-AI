@@ -1,0 +1,15 @@
+# Environment variables (API Keys)
+.env
+backend/.env
+
+# Dependencies
+node_modules/
+backend/node_modules/
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
